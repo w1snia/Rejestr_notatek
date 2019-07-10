@@ -32,25 +32,7 @@ namespace projekt_notatki
             clearContent();
             createListOfNotes();
 
-            /*
-            DateTime nowDate = DateTime.Now;
-
-            string date = DateTime.Now.ToString("dddd, dd MMMM yyyy");
-            string time = DateTime.Now.ToString("HH:mm:ss");
-
-
-            string day = Convert.ToString(nowDate.Day);
-            string month = Convert.ToString(nowDate.Month);
-            string year = Convert.ToString(nowDate.Year);
-            string hour = Convert.ToString(nowDate.Hour);
-            string minute = Convert.ToString(nowDate.Minute);
-
-
-            //label_Date.Text = day + "." + month + "." + year;
-            label_Date.Text = date;
-            label_Time.Text = time;
-            */
-
+        
 
 
         }
